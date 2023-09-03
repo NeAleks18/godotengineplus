@@ -1,4 +1,4 @@
-# Godot Engine
+# Godot Engine +
 
 <p align="center">
   <a href="https://godotengine.org">
@@ -8,7 +8,7 @@
 
 ## 2D and 3D cross-platform game engine
 
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
+**[Godot Engine +](https://godotengine.org) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
 comprehensive set of [common tools](https://godotengine.org/features), so that users can focus on making games
 without having to reinvent the wheel. Games can be exported with one click to a
@@ -29,6 +29,7 @@ Before being open sourced in [February 2014](https://github.com/godotengine/godo
 Godot had been developed by [Juan Linietsky](https://github.com/reduz) and
 [Ariel Manzur](https://github.com/punto-) (both still maintaining the project) for several
 years as an in-house engine, used to publish several work-for-hire titles.
+Godot Engine + Created and Developed only [NeAleks (AlexeyVolkov)](https://github.com/nealeks18)
 
 ![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
 
